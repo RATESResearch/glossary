@@ -100,12 +100,18 @@ Glossary
 
    HPCC
       :term:`HPC` cluster
+      
+   HTML
+      Hypertext Markup Language
 
    K8s
       :term:`Kubernetes`
 
    Kubernetes
       An orchestration system facilites the deployment and management of containerized applications, with a specific focus on scaling to increase demand for the provided services.
+      
+   LaTeX
+      A high-quality typesetting system including features designed for the production of technical and scientific documentation
 
    LiDAR
       Light Detection and Ranging
@@ -115,9 +121,6 @@ Glossary
 
    MPI
       Message Passing Interface
-
-   FEMA
-      Federal Emergency Management Agency
 
    NAT 
       Network Address Translation
@@ -137,6 +140,9 @@ Glossary
    PostGIS       
       Spatial database extender for :term:`PostgreSQL`
       
+   Sphinx
+      Documentation generator supporting multiple output formats
+      
    Spyce
       Smartphone Python Computing Environment
 
@@ -145,9 +151,6 @@ Glossary
 
    UI 
       User Interface
-      
-   URL
-      Uniform Resource Locator
 
    LRGV
       Lower Rio Grande Valley
