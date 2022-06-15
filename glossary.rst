@@ -1,8 +1,8 @@
-:orphan:
-
-
 Glossary
 ========
+
+:orphan:
+
 
 .. glossary::
    :sorted: 
