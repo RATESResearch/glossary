@@ -1,7 +1,6 @@
 :orphan:
 
 
-
 Glossary
 ========
 
