@@ -293,6 +293,9 @@ Glossary
    RBAC
       Role Based Access Control 
       
+   SMT 
+      Simultaneous Multi-Threading
+      
    TWDB 
       Texas Water Development Board
 
