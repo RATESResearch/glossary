@@ -263,6 +263,9 @@ Glossary
    LSM
       Land Surface Models focus on describing the processes driving the exchange of terrestrial water with atmospheric.
 
+   NIC
+      Network interface controller
+
    NLDAS 
       North American Land Data Assimilation System
 
