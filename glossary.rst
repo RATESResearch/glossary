@@ -84,6 +84,9 @@ Glossary
       
    GeoServer
       Open source server for sharing geospatial data.
+      
+   GeoTIFF
+      A public domain metadata standard which has the georeferencing information embedded within the :term:`TIFF` file.
 
    GeoNode/db
       :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`GeoNode` :term:`Django` and :term:`GeoServer` data.   
@@ -208,6 +211,9 @@ Glossary
 
    Tier III
       Tier III Off-Line Urban Stormwater Modeling Framework
+      
+   TIFF
+      Tag Image File Format, a computer file used to store raster graphics and image information.
 
    Ubuntu
       A :term:`Linux` distribution      
