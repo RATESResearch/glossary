@@ -109,6 +109,9 @@ Glossary
       
    HTML
       Hypertext Markup Language
+      
+   IT
+      Information Technology
 
    K8s
       :term:`Kubernetes`
