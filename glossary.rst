@@ -196,6 +196,9 @@ Glossary
 
    SA 
       Situational Awareness
+      
+   SONAR
+      Sound Navigation Ranging, a technique for detecting and determining the distance and direction of underwater objects by acoustic means.
 
    SaaS
       Software as a Service 
@@ -214,6 +217,9 @@ Glossary
       
    TIFF
       Tag Image File Format, a computer file used to store raster graphics and image information.
+      
+   TIN
+      Triangular Irregular Networks are a form of vector-based digital geographic data and are constructed by triangulating a set of vertices.
 
    Ubuntu
       A :term:`Linux` distribution      
