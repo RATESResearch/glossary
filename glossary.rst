@@ -1,5 +1,8 @@
 :orphan:
 
+.. slideconf::
+   :autoslides: True
+
 
 Glossary
 ========
