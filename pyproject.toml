@@ -27,4 +27,4 @@
 [tool.setuptools_scm]
   write_to = "_version.py"
   root = '.'
-  relative_to='setup.py'
+  #elative_to='setup.py'
