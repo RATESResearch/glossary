@@ -5,6 +5,7 @@ Welcome to RGVFlood's Glossary
    :maxdepth: 2
    :caption: Contents:
 
+   README
    glossary
 
 
