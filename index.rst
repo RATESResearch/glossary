@@ -1,10 +1,5 @@
-.. Glossary documentation master file, created by
-   sphinx-quickstart on Sun Jul 10 06:16:44 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Glossary's documentation!
-====================================
+Welcome to RGVFlood's Glossary
+==============================
 
 .. toctree::
    :maxdepth: 2
