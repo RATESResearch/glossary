@@ -134,7 +134,10 @@ Glossary
       Network Address Translation
 
    NGINX
-      High performance web server.
+      High performance web server. 
+
+   R 
+      A language and environment for statistical computing and graphics
 
    REON/db
       :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`REON` specific data for :term:`RTHS`, :term:`REON/WM` & :term:`REON.cc` data.
