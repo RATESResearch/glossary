@@ -151,6 +151,9 @@ Glossary
    PostGIS       
       Spatial database extender for :term:`PostgreSQL`
       
+   R
+      A language and environment for statistical computing and graphics. 
+      
    Sphinx
       Documentation generator supporting multiple output formats
       
