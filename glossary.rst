@@ -57,6 +57,9 @@ Glossary
    DFIRM 
       Digital Flood Insurance Rate Map
 
+   Django
+      <https://www.djangoproject.com/>
+      
    Docker
       Docker is a container deployment platform that allows for the rapid deployment of a applications in the cloud, independent of the physical infrastructure.
 
@@ -343,17 +346,23 @@ Glossary
    GeoNode
       <https://geonode.org/>
 
-   Django
-      <https://www.djangoproject.com/>
-
    InfoWorks ICM
       <https://www.innovyze.com/en-us/products/infoworks-icm>
 
    MIKE Urban+
       <https://www.mikepoweredbydhi.com/download/mike-2019/mike-urban-plus?ref=%7B5399F5D6-40C6-4BB2-8311-37B615A652C6%7D>
+      
+   NCAR
+      National Center for Atmospheric Research
 
    Python
       <https://www.python.org/>
+      
+   UCAR
+      University Corporation for Atmospheric Research
+      
+   UniData
+      A :term:`UCAR` community program focused on sharing geoscience data and the tools to access and visualize that data.
 
    USIBWC
       United States International Boundary Water Commission
@@ -377,7 +386,8 @@ Glossary
       Weather Research and Forecasting Model
 
    WRF-Hydro 
-      :term:`WRF` Hydrological modeling system.   <https://ral.ucar.edu/projects/wrf_hydro/overview>
+      :term:`WRF` Hydrological modeling system.   <https://ral.
+      .edu/projects/wrf_hydro/overview>
 
    WPS 
       WRF Preprocessing System
