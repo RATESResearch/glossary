@@ -331,20 +331,17 @@ Glossary
    VIC 
       Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.  <https://vic.readthedocs.io/en/master/>
 
-   SWMM 
-      Stormwater Management Model
-
-   SPRNT 
-      Simulation Program for River Networks
-
    Eeyore
       URL: Eeyore.ratesresearch.org CPU: Dual Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
 
-   Tigger
-      URL: Tigger.water-wizard.org CPU: Dual Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
-
    GeoNode
       <https://geonode.org/>
+
+   HEC-DSS
+      :term:`HEC` Data Storage System
+
+   IDV 
+      Integrated Data Viewer from :term:`UniData`
 
    InfoWorks ICM
       <https://www.innovyze.com/en-us/products/infoworks-icm>
@@ -357,6 +354,15 @@ Glossary
 
    Python
       <https://www.python.org/>
+
+   SWMM 
+      Stormwater Management Model
+
+   SPRNT 
+      Simulation Program for River Networks
+      
+   Tigger
+      URL: Tigger.water-wizard.org CPU: Dual Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
       
    UCAR
       University Corporation for Atmospheric Research
