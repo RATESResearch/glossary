@@ -136,6 +136,9 @@ Glossary
    NAT 
       Network Address Translation
 
+   NetCDF
+      *NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. It is also a community standard for sharing scientific data. The Unidata Program Center supports and maintains netCDF programming interfaces for C, C++, Java, and Fortran. Programming interfaces are also available for Python, IDL, MATLAB, R, Ruby, and Perl.* Reproduced from `NetCDF`_.
+
    NGINX
       High performance web server. 
 
@@ -360,7 +363,7 @@ Glossary
 
    SPRNT 
       Simulation Program for River Networks
-      
+
    Tigger
       URL: Tigger.water-wizard.org CPU: Dual Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
       
@@ -397,3 +400,5 @@ Glossary
 
    WPS 
       WRF Preprocessing System
+
+.. `NetCDF`: https://www.unidata.ucar.edu/software/netcdf/
