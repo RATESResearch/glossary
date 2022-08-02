@@ -74,6 +74,9 @@ Glossary
 
    FEMA
       Federal Emergency Management Agency
+      
+   FOSS
+      Free and Open Source Software
 
    GCE 
       Google Compute Engine
