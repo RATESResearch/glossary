@@ -32,6 +32,9 @@ Glossary
 
    CI
       Cyberinfrastructure
+      
+   Clover
+      Cloud Virtual Water Model Executor
 
    COP
       Common Operating Picture
