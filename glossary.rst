@@ -33,6 +33,9 @@ Glossary
    CI
       Cyberinfrastructure
       
+   CLI
+      Command-Line Interface
+      
    Clover
       Cloud Virtual Water Model Executor
 
