@@ -407,4 +407,4 @@ Glossary
    WPS 
       WRF Preprocessing System
 
-.. `NetCDF`: https://www.unidata.ucar.edu/software/netcdf/
+.. _`NetCDF`: https://www.unidata.ucar.edu/software/netcdf/
