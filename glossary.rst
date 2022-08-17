@@ -11,12 +11,15 @@ Glossary
 
    API.RGVFlood.com
       :term:`RGVFlood.com` data assimilation service.
+      
+   AU
+      Assessment Unit
+      
+   AWS
+      Amazon Web Services
 
    Azure
       Microsoft's Cloud Computing Platform
-
-   AWS
-      Amazon Web Services
 
    Bernoulli
       The Bernoulli equation is a simplification of the Navier-Stokes equations assuming inviscid fluid and steady (non-time-variant) flow.
@@ -121,6 +124,12 @@ Glossary
    HTML
       Hypertext Markup Language
       
+   HWMD
+      Hidalgo/Willacy Main Drain
+      
+   IBWCNF
+      :term:`USIBWC` North Floodway
+      
    IT
       Information Technology
 
@@ -165,6 +174,9 @@ Glossary
 
    PostGIS       
       Spatial database extender for :term:`PostgreSQL`
+      
+   RVD
+      Raymondville Drain
       
    Sphinx
       Documentation generator supporting multiple output formats
@@ -283,8 +295,26 @@ Glossary
    HEC-RTS 
       Hydrologic Engineering Center Real Time Simulation
 
+   Eeyore
+      URL: Eeyore.ratesresearch.org CPU: Dual Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
+
+   GeoNode
+      <https://geonode.org/>
+
+   HEC-DSS
+      :term:`HEC` Data Storage System
+
    HUC
       Hydrologic Unit Code
+      
+   IDV 
+      Integrated Data Viewer from :term:`UniData`
+
+   InfoWorks ICM
+      <https://www.innovyze.com/en-us/products/infoworks-icm>
+
+   LLM
+      Lower Laguna Madre
       
    LLM/BSC 
       Lower Laguna Madre/Brownsville Ship Channel watershed.
@@ -325,6 +355,9 @@ Glossary
    RBAC
       Role Based Access Control 
       
+   RVD
+      Raymondville Drain
+      
    SMT 
       Simultaneous Multi-Threading
       
@@ -339,21 +372,6 @@ Glossary
 
    VIC 
       Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.  <https://vic.readthedocs.io/en/master/>
-
-   Eeyore
-      URL: Eeyore.ratesresearch.org CPU: Dual Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
-
-   GeoNode
-      <https://geonode.org/>
-
-   HEC-DSS
-      :term:`HEC` Data Storage System
-
-   IDV 
-      Integrated Data Viewer from :term:`UniData`
-
-   InfoWorks ICM
-      <https://www.innovyze.com/en-us/products/infoworks-icm>
 
    MIKE Urban+
       <https://www.mikepoweredbydhi.com/download/mike-2019/mike-urban-plus?ref=%7B5399F5D6-40C6-4BB2-8311-37B615A652C6%7D>
