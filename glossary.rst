@@ -68,6 +68,9 @@ Glossary
 
    Django
       <https://www.djangoproject.com/>
+
+   DO 
+      Dissolved Oxygen
       
    Docker
       Docker is a container deployment platform that allows for the rapid deployment of a applications in the cloud, independent of the physical infrastructure.
@@ -415,6 +418,12 @@ Glossary
    Wizard.RGVFlood.com
       A web, mobile and desktop client-side application that, working with the server-side components at :term:`RGVFlood.com`, provides the end-user with the up-to-date analytics, visualization and decision support services from the core :term:`REON.cc` :term:`CI`.
 
+   WPP
+      Watershed Protection Plan
+
+   WPS 
+      WRF Preprocessing System
+
    WRDA
       Water Resources Development Act
 
@@ -425,7 +434,5 @@ Glossary
       :term:`WRF` Hydrological modeling system.   <https://ral.
       .edu/projects/wrf_hydro/overview>
 
-   WPS 
-      WRF Preprocessing System
 
 .. _`NetCDF`: https://www.unidata.ucar.edu/software/netcdf/
