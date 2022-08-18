@@ -126,7 +126,19 @@ Glossary
       
    HWMD
       Hidalgo/Willacy Main Drain
-      
+
+   HEC 
+      Hydrologic Engineering Center
+
+   HEC-HMS 
+      Hydrologic Engineering Center Hydrologic Modeling System. <https://www.hec.usace.army.mil/software/hec-hms/>
+
+   HEC-RAS 
+      Hydrologic Engineering Center River Analysis System.  <https://www.hec.usace.army.mil/software/hec-ras/>
+
+   HEC-RTS 
+      Hydrologic Engineering Center Real Time Simulation
+
    IBWCNF
       :term:`USIBWC` North Floodway
       
@@ -160,11 +172,8 @@ Glossary
    NGINX
       High performance web server. 
 
-   R 
-      A language and environment for statistical computing and graphics
-
-   REON/db
-      :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`REON` specific data for :term:`RTHS`, :term:`REON/WM` & :term:`REON.cc` data.
+   PostGIS       
+      Spatial database extender for :term:`PostgreSQL`
 
    PostgreSQL
       Open source object-relational database system, available with :term:`PostGIS` extensions
@@ -172,32 +181,23 @@ Glossary
    PWA
       Progressive Web Application, an application format that allows installation as native applications onto mobile devices and desktop PCs directly from the web.
 
-   PostGIS       
-      Spatial database extender for :term:`PostgreSQL`
-      
-   RVD
-      Raymondville Drain
-      
-   Sphinx
-      Documentation generator supporting multiple output formats
-      
-   Spyce
-      Smartphone Python Computing Environment
-
-   Tastypie
-      a webservice :term:`API` framework for :term:`Django`
-
-   UI 
-      User Interface
-
-   LRGV
-      Lower Rio Grande Valley
+   R 
+      A language and environment for statistical computing and graphics
 
    RabbitMQ
       An open-source inter-process message broker
-      
+
+   RATES 
+      Research, Applied Technology, Education and Service, Inc., a non-profit technology-based company.
+
+   RBAC
+      Role Based Access Control 
+
    REON
       River and Estuary Observation Network. A partnership of organizations, supported by cloud software, committed to furthering the Democratization of Water Intelligence by sharing water data, analytics and models for local and regional decision making.
+
+   REON/db
+      :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`REON` specific data for :term:`RTHS`, :term:`REON/WM` & :term:`REON.cc` data.
 
    REON.cc 
       Cloud-based cyber-infrastructure that supports :term:`REON`'s goals.
@@ -225,15 +225,66 @@ Glossary
 
    RWRAC 
       Regional Water Resources Advisory Committee
+      
+   RVD
+      Raymondville Drain
 
    SA 
       Situational Awareness
-      
-   SONAR
-      Sound Navigation Ranging, a technique for detecting and determining the distance and direction of underwater objects by acoustic means.
+  
+   SMT 
+      Simultaneous Multi-Threading
 
    SaaS
       Software as a Service 
+      
+   SONAR
+      Sound Navigation Ranging, a technique for detecting and determining the distance and direction of underwater objects by acoustic means.
+      
+   Sphinx
+      Documentation generator supporting multiple output formats
+
+   SPRNT 
+      Simulation Program for River Networks
+      
+   Spyce
+      Smartphone Python Computing Environment
+
+   SWMM 
+      Stormwater Management Model
+
+   SWTF
+      Stormwater Taskforce
+
+   Tastypie
+      a webservice :term:`API` framework for :term:`Django`
+
+   Ubuntu
+      A :term:`Linux` distribution  
+
+   UCAR
+      University Corporation for Atmospheric Research
+
+   UI 
+      User Interface      
+
+   UniData
+      A :term:`UCAR` community program focused on sharing geoscience data and the tools to access and visualize that data.
+ 
+   URL
+      Uniform Resource Locator
+      
+   USGS
+      United States Geological Survey
+
+   USIBWC
+      United States International Boundary Water Commission
+
+   UTRGV
+      University of Texas Rio Grande Valley
+
+   LRGV
+      Lower Rio Grande Valley
       
    TGLO
       Texas General Land Office
@@ -252,15 +303,6 @@ Glossary
       
    TIN
       Triangular Irregular Networks are a form of vector-based digital geographic data and are constructed by triangulating a set of vertices.
-
-   Ubuntu
-      A :term:`Linux` distribution      
-
-   URL
-      Uniform Resource Locator
-      
-   USGS
-      United States Geological Survey
 
    Mechanistic
       Formulations describing physical, biological or chemical processes based on a theoretical understanding.
@@ -282,18 +324,6 @@ Glossary
 
    GIS 
       Geospatial Information System
-
-   HEC 
-      Hydrologic Engineering Center
-
-   HEC-HMS 
-      Hydrologic Engineering Center Hydrologic Modeling System. <https://www.hec.usace.army.mil/software/hec-hms/>
-
-   HEC-RAS 
-      Hydrologic Engineering Center River Analysis System.  <https://www.hec.usace.army.mil/software/hec-ras/>
-
-   HEC-RTS 
-      Hydrologic Engineering Center Real Time Simulation
 
    Eeyore
       URL: Eeyore.ratesresearch.org CPU: Dual Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
@@ -348,18 +378,6 @@ Glossary
 
    Primo 
       Parallel raster inundation model
-
-   RATES 
-      Research, Applied Technology, Education and Service, Inc., a non-profit technology-based company.
-
-   RBAC
-      Role Based Access Control 
-      
-   RVD
-      Raymondville Drain
-      
-   SMT 
-      Simultaneous Multi-Threading
       
    TWDB 
       Texas Water Development Board
@@ -382,24 +400,9 @@ Glossary
    Python
       <https://www.python.org/>
 
-   SWMM 
-      Stormwater Management Model
-
-   SPRNT 
-      Simulation Program for River Networks
-
    Tigger
       URL: Tigger.water-wizard.org CPU: Dual Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
       
-   UCAR
-      University Corporation for Atmospheric Research
-      
-   UniData
-      A :term:`UCAR` community program focused on sharing geoscience data and the tools to access and visualize that data.
-
-   USIBWC
-      United States International Boundary Water Commission
-
    vCPU
       Virtual :term:`CPU`
 
