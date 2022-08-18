@@ -344,7 +344,7 @@ Glossary
       :term:`HEC` Data Storage System
 
    IDV 
-      Integrated Data Viewer from :term:`UniData`
+      Integrated Data Viewer from :term:`UniData`. <https://www.unidata.ucar.edu/software/idv/>
 
    InfoWorks ICM
       <https://www.innovyze.com/en-us/products/infoworks-icm>
