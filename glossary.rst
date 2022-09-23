@@ -150,9 +150,12 @@ Glossary
 
    K8s
       :term:`Kubernetes`
+      
+   KIND
+      :term:`Kubernetes` IN :term:`Docker`. https://github.com/kubernetes-sigs/kind
 
    Kubernetes
-      An orchestration system facilites the deployment and management of containerized applications, with a specific focus on scaling to increase demand for the provided services.
+      An orchestration system facilites the deployment and management of containerized applications, with a specific focus on scaling to increase demand for the provided services. https://kubernetes.io/
       
    LaTeX
       A high-quality typesetting system including features designed for the production of technical and scientific documentation
