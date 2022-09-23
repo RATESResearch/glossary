@@ -109,7 +109,7 @@ Glossary
       :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`GeoNode` :term:`Django` and :term:`GeoServer` data.   
 
    GKE
-      Google :term:`Kubernetes` Engine
+      Google :term:`Kubernetes` Engine. https://cloud.google.com/kubernetes-engine/
 
    H&H 
       Hydrologic and Hydraulic
