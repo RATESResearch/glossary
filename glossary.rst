@@ -38,6 +38,9 @@ Glossary
       
    CLI
       Command-Line Interface
+
+   Cloud
+      Servers, software and databases that are accessed over the Internet
       
    Clover
       Cloud Virtual Water Model Executor
