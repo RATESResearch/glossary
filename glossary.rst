@@ -181,6 +181,9 @@ Glossary
    NGINX
       High performance web server. 
 
+   PDF
+      Portable Document Format
+
    PostGIS       
       Spatial database extender for :term:`PostgreSQL`
 
@@ -364,6 +367,9 @@ Glossary
    LSM
       Land Surface Models focus on describing the processes driving the exchange of terrestrial water with atmospheric.
 
+   Metadata 
+      Data that provides information about other data
+
    NIC
       Network interface controller
 
@@ -387,6 +393,9 @@ Glossary
 
    Primo 
       Parallel raster inundation model
+   
+   TOML
+      Tom's Obvious Minimal Language
       
    TWDB 
       Texas Water Development Board
@@ -414,6 +423,9 @@ Glossary
       
    vCPU
       Virtual :term:`CPU`
+
+   VCS 
+      Version Control System
 
    VM
       Virtual Machine
