@@ -261,6 +261,12 @@ Glossary
       
    Spyce
       Smartphone Python Computing Environment
+      
+   SustainRGV
+      Instantiation of the :term:`REON` Cyberinfrastructure specific to the :term:`LRGV` sustainability.
+
+   SustainRGV.org
+      The domain name and :term:`URL` for :term:`SustainRGV`.
 
    SWMM 
       Stormwater Management Model
