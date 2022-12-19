@@ -409,6 +409,9 @@ Glossary
    Primo 
       Parallel raster inundation model
    
+   REONode
+      :term:`REON` Development Environment. A live implementation of :term:`REON.cc` extensions and applications under active development.
+   
    TOML
       Tom's Obvious Minimal Language
       
