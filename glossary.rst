@@ -102,6 +102,12 @@ Glossary
    GCS
       Google Cloud storage
       
+   GeoNode
+      A web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
+      
+   GeoNodeGCP
+      An implementation of :term:`GeoNode` on :term:`GCP`
+      
    GeoServer
       Open source server for sharing geospatial data.
       
@@ -110,6 +116,9 @@ Glossary
 
    GeoNode/db
       :term:`PostgreSQL` with :term:`PostGIS` extensions database server storing :term:`GeoNode` :term:`Django` and :term:`GeoServer` data.   
+      
+   GitHub
+      An online software development platform used for storing, tracking, and collaborating on software projects.
 
    GKE
       Google :term:`Kubernetes` Engine. https://cloud.google.com/kubernetes-engine/
