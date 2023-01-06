@@ -36,6 +36,9 @@ Glossary
    CI
       Cyberinfrastructure
       
+   CI/CD
+      Continuous Integration and Continuous Delivery/Continuous Deployment
+      
    CLI
       Command-Line Interface
 
@@ -187,6 +190,8 @@ Glossary
    NetCDF
       *NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. It is also a community standard for sharing scientific data. The Unidata Program Center supports and maintains netCDF programming interfaces for C, C++, Java, and Fortran. Programming interfaces are also available for Python, IDL, MATLAB, R, Ruby, and Perl.* Reproduced from `NetCDF`_.
 
+   NFS
+      Network File Systemn a protocol that lets users on client computers access files on a network, making it a distributed file system.
    NGINX
       High performance web server. 
 
