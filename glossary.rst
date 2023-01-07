@@ -96,6 +96,9 @@ Glossary
    FOSS
       Free and Open Source Software
 
+   GAE
+      Google App Engine
+
    GCE 
       Google Compute Engine
       
@@ -181,6 +184,9 @@ Glossary
    Linux
       An open source operating system that is made up of the kernel, the base component of the OS, and the tools, apps, and services bundled along with it.
 
+   Microservices Architecture
+      A modular approach to developing applications. allowing large applications to be separated into smaller independent parts.
+
    MPI
       Message Passing Interface
 
@@ -192,6 +198,7 @@ Glossary
 
    NFS
       Network File Systemn a protocol that lets users on client computers access files on a network, making it a distributed file system.
+   
    NGINX
       High performance web server. 
 
@@ -429,9 +436,6 @@ Glossary
    USACE 
       United States Army Corps of Engineers
 
-   VIC 
-      Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.  <https://vic.readthedocs.io/en/master/>
-
    MIKE Urban+
       <https://www.mikepoweredbydhi.com/download/mike-2019/mike-urban-plus?ref=%7B5399F5D6-40C6-4BB2-8311-37B615A652C6%7D>
       
@@ -443,7 +447,10 @@ Glossary
 
    Tigger
       URL: Tigger.water-wizard.org CPU: Dual Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz Memory: 16GB HD: 4TB OS: Ubuntu Linux 20.04
-      
+
+   VIC 
+      Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.  <https://vic.readthedocs.io/en/master/>
+
    vCPU
       Virtual :term:`CPU`
 
