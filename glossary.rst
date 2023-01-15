@@ -136,6 +136,9 @@ Glossary
       Height Above Nearest Drainage
       <http://handmodel.ccst.inpe.br/>
 
+   Hogwarts
+      :term:`RATES` :term:`Kubernetes` on-premise multi-node bare-metal cluster.
+
    HPC
       High Performace Computing
 
@@ -183,6 +186,9 @@ Glossary
 
    Linux
       An open source operating system that is made up of the kernel, the base component of the OS, and the tools, apps, and services bundled along with it.
+
+   LRGV
+      Lower Rio Grande Valley
 
    Microservices Architecture
       A modular approach to developing applications. allowing large applications to be separated into smaller independent parts.
@@ -321,9 +327,6 @@ Glossary
 
    UTRGV
       University of Texas Rio Grande Valley
-
-   LRGV
-      Lower Rio Grande Valley
       
    TGLO
       Texas General Land Office
